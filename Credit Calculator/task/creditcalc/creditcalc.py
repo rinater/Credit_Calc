@@ -1,6 +1,5 @@
 import math
 import argparse
-import math
 
 
 class CreditCalculator:
